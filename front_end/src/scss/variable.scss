@@ -1,0 +1,35 @@
+// couleur des sections principal (body header main footer)
+$color_body: #181118;
+$color_footer: #201320;
+
+// couleur des liens + effet de hover
+$color_link: #F4D4F4;
+$hover_link: #E796F3;
+
+// couleur des bordures de spération
+$color_border: #92549C;
+
+// couleur pour les bouttons
+$color_button: #512454;
+$button_footer: #181118;
+$button_text: #F4D4F4;
+$boder_button: #92549C;
+
+// couleur pour le icône footer
+$color_icone: #F4D4F4;
+$hover_icone: #92549C;
+// couleur pour les textes
+$color_text: #F4D4F4;
+
+// couleur des titres utiliser
+$color_h1: #F4D4F4;
+$color_h2: #F4D4F4;
+$color_h3: #F4D4F4;
+
+// couleur du titre + boutton pour la page erreur
+$error_h1: #F4D4F4;
+$error_btn: #92549C;
+$error_text_btn: #F4D4F4;
+
+// dégrader de couleur fond de la balise main
+$degrader_main: linear-gradient(190deg, #181118, #201320, #512454, #92549C, #F4D4F4);

@@ -1,0 +1,116 @@
+{
+  "navbar":{
+    "title2": "Projects",
+    "title3": "Contact"
+  },
+  "presentation":{
+    "description": "I'm Cédric, a junior front-end web developer, who's actively looking for a job as a front-end web developer to put the skills I've learnt on this course to good use. After completing 11 months' training as a front-end web developer and obtaining a BAC +2 diploma, I'm looking for a permanent or fixed-term contract." 
+  },
+  "competence":{
+    "description":"Skills"
+  },
+  "footer":{
+    "title": "Contact info",
+    "number": "06 12 26 76 70",
+    "mail": "cedric-developpeur-web@laposte.net",
+    "fileCv":"View my CV",
+    "webgithub":"https://github.com/cedric-developpeur-web?tab=repositories",
+    "weblinkedin":"https://www.linkedin.com/in/cedric-cocq-435931344/"
+  },
+  "projet":{
+    "description":"Projects",
+    "titleQr": "Share this site"
+  },
+      
+  "next":"Back to home page",
+
+  "projets":[
+    {
+      "id":"a1",
+      "title":"Riding Citites",
+      "description":"Website for a skateboarding association, made in HTML and CSS (not responsive)",
+      "tag":"Visit the website",
+      "link":"https://cedric-developpeur-web.github.io/HtlmCss_RidingCitites-formation-/",
+      "miniPicture":[
+        {
+          "src": "/assets/RidingCitites.webp",
+          "alt": "Picture of the RidingCities project"
+        }
+      ]
+    },
+    {
+      "id":"a2",
+      "title":"Booki",
+      "description":"Travel agency website, made in HTML and CSS (responsive)",
+      "tag":"Visit the website",
+      "link":"https://cedric-developpeur-web.github.io/HtmlCss_Booki-formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Booki.webp",
+          "alt": "Picture of the Booki project"
+        }
+      ]
+    },
+    {
+      "id":"a3",
+      "title":"OhMyFood",
+      "description":"Restaurant reservation website, made in HTML SASS (responsive)",
+      "tag":"Visit the website",
+      "link":"https://cedric-developpeur-web.github.io/Ohmyfood_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Ohmyfood.webp",
+          "alt": "Picture of the Ohmyfood project"
+        }
+      ]
+    },
+    {
+      "id":"a4",
+      "title":"Prin It",
+      "description":"Website for a printing company, HTML,CSS, JAVASCRIPT (not responsive)",
+      "tag":"Visit the website",
+      "link":"https://cedric-developpeur-web.github.io/Javascript_Print_it_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Print_it.webp",
+          "alt": "Picture of the Print it project"
+        }
+      ]
+    },
+    {
+      "id":"a5",
+      "title":"Nina Carducci",
+      "description":"Website of a freelance photographer, SEO practice (not responsive)",
+      "tag":"Visit the website",
+      "link":"https://cedric-developpeur-web.github.io/Seo_NinaCarducci_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/NinaCarducci.webp",
+          "alt": "Picture of the Nina Carducci project"
+        }
+      ]
+    }
+  ],
+  "skill":[
+    {
+      "id":"b1",
+      "title":"Declarative languages",
+      "competence":["HTML","CSS","SASS"]
+    },
+    {
+      "id":"b2",
+      "title":"Programming language",
+      "competence":["JavaScript"]
+    },
+    {
+      "id":"b3",
+      "title":"Framework Build",
+      "competence":["React","Vite","Redux"]
+    },
+    {
+      "id":"b4",
+      "title":"Content Management System",
+      "competence":["WordPress"]
+    }
+  ]
+}

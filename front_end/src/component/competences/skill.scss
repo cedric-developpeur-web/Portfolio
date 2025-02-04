@@ -1,0 +1,76 @@
+@use '../../scss/variable.scss' as *;
+
+span {
+  text-align: center;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 250px;
+  height: 420px;
+  margin: 20px auto 0px;
+  padding: 0px 5px;
+  border: solid 2px#fff;
+  border-radius: 10px;
+  background-color: #351A35;
+
+
+  h3 {
+    font-size: 16px;
+    color: $color_h3;
+    margin: 10px 0px 16px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: $color_text;
+  }
+}
+
+// // grand ecran mobile
+@media screen and (min-width:480px) {
+  .skill {
+    width: 400px;
+    padding: 0px;
+  }
+}
+
+// // version tablette
+@media screen and (min-width:767px) {
+  span h2 {
+    margin: 50px auto 0px;
+  }
+
+  .skill {
+    width: 400px;
+    padding: 0px;
+  }
+}
+
+// // version full HD
+@media screen and (min-width:1024px) {
+  .skill {
+    flex-direction: row;
+    gap: 60px;
+    width: 900px;
+    height: 120px;
+    padding: 20px 0px;
+  }
+}
+
+// // version Quad HD
+@media screen and (min-width:1920px) {
+  .skill {
+    flex-direction: row;
+    // gap: 100px;
+    // width: 700px;
+    height: 120px;
+    padding: 10px 5px;
+  }
+}

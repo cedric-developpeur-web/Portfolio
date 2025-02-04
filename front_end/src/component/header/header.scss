@@ -1,0 +1,85 @@
+@use '../../scss/variable.scss' as *;
+
+nav {
+  .posi_drapeau {
+    position: absolute;
+    left: 7px;
+    top: 14px;
+
+    :hover {
+      cursor: pointer;
+    }
+
+    .drap_fr {
+      margin-right: 15px;
+    }
+  }
+
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+
+    li {
+      list-style: none;
+      margin-left: 30px;
+
+      a {
+        color: $color_link;
+        text-decoration: none;
+        cursor: pointer;
+
+        &:hover {
+          color: $hover_link;
+          text-decoration: underline;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}
+
+// grand ecran mobile
+@media screen and (min-width:480px) {
+  nav .posi_drapeau {
+    left: 20px;
+
+    .drap_fr {
+      margin-right: 30px;
+    }
+  }
+}
+
+// version tablette
+@media screen and (min-width:767px) {
+  nav .posi_drapeau {
+    left: 30px;
+
+    .drap_fr {
+      margin-right: 40px;
+    }
+  }
+}
+
+
+// version desktop full hd
+@media screen and (min-width:1024px) {
+  nav .posi_drapeau {
+    left: 25px;
+
+    .drap_fr {
+      margin-right: 30px;
+    }
+  }
+}
+
+// version desktop 2k et plus
+@media screen and (min-width:1920px) {
+  nav .posi_drapeau {
+    left: 30px;
+    top: 14px;
+
+    .drap_fr {
+      margin-right: 40px;
+    }
+  }
+}

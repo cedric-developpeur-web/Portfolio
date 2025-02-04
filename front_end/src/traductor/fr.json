@@ -1,0 +1,116 @@
+{
+  "navbar":{
+    "title2": "Mes Projets",
+    "title3": "Contact"
+  },
+  "presentation":{
+    "description": "Je suis Cédric, développeur web front end junior, à la recherche active d’un poste de développeur web frontend pour mettre à profit les compétences acquises durant cette formation. Suite à cette formation effectuée d’une durée de 11 mois en tant que développeur web frontend avec obtention du diplôme de niveau BAC +2, les types de contrat recherchés sont un CDI ou CDD" 
+  },
+  "competence":{
+    "description":"Mes Compétences"
+  },
+  "footer":{
+    "title": "Coordonnées",
+    "number": "06 12 26 76 70",
+    "mail": "cedric-developpeur-web@laposte.net",
+    "fileCv":"Visualisez mon CV",
+    "webgithub":"https://github.com/cedric-developpeur-web?tab=repositories",
+    "weblinkedin":"https://www.linkedin.com/in/cedric-cocq-435931344/"
+  },
+  "projet":{
+    "description":"Mes Projets",
+    "titleQr": "Partager ce site"
+  },
+    
+  "next":"Retour à l'accueil",
+
+  "projets":[
+    {
+      "id":"a1",
+      "title":"Riding Citites",
+      "description":"Site web d'une association de skate, fait en HTML et CSS",
+      "tag":"Visiter le site web",
+      "link":"https://cedric-developpeur-web.github.io/HtlmCss_RidingCitites-formation-/",
+      "miniPicture":[
+        {
+          "src": "/assets/RidingCitites.webp",
+          "alt": "Image du projet RidingCities"
+        }
+      ]
+    },
+    {
+      "id":"a2",
+      "title":"Booki",
+      "description":"Site web d'une agence de voyage, fait en HTML et CSS",
+      "tag":"Visiter le site web",
+      "link":"https://cedric-developpeur-web.github.io/HtmlCss_Booki-formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Booki.webp",
+          "alt": "image du projet Booki"
+        }
+      ]
+    },
+    {
+      "id":"a3",
+      "title":"OhMyFood",
+      "description":"Site web de réservation pour la restauration, fait en HTML SASS",
+      "tag":"Visiter le site web",
+      "link":"https://cedric-developpeur-web.github.io/Ohmyfood_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Ohmyfood.webp",
+          "alt": "image du projet Ohmyfood"
+        }
+      ]
+    },
+    {
+      "id":"a4",
+      "title":"Prin It",
+      "description":"Site web pour une entreprise d'imprimerie, HTML,CSS, JAVASCRIPT",
+      "tag":"Visiter le site web",
+      "link":"https://cedric-developpeur-web.github.io/Javascript_Print_it_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/Print_it.webp",
+          "alt": "image du projet Print it"
+        }
+      ]
+    },
+    {
+      "id":"a5",
+      "title":"Nina Carducci",
+      "description":"Site web d'une photographe freelance, pratique SEO",
+      "tag":"Visiter le site web",
+      "link":"https://cedric-developpeur-web.github.io/Seo_NinaCarducci_formation/",
+      "miniPicture":[
+        {
+          "src": "/assets/NinaCarducci.webp",
+          "alt": "image du projet Nina Carducci"
+        }
+      ]
+    }
+  ],
+  "skill":[
+    {
+      "id":"b1",
+      "title":"Langages déclaratifs",
+      "competence":["HTML","CSS","SASS"]
+    },
+    {
+      "id":"b2",
+      "title":"Langage de programmation",
+      "competence":["JavaScript"]
+    },
+    {
+      "id":"b3",
+      "title":"Framework Build",
+      "competence":["React","Vite","Redux"]
+    },
+    {
+      "id":"b4",
+      "title":"Système de gestion de contenu",
+      "competence":["WordPress"]
+    }
+  ]
+}

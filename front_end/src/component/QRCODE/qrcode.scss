@@ -1,0 +1,32 @@
+@use '../../scss/variable.scss' as *;
+
+.posi_QR {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  margin: 30px;
+
+  p {
+    margin: 0px;
+    color: $color_text;
+    font-size: 14px;
+  }
+}
+
+// version tablette
+@media screen and (min-width:767px) {
+  .posi_QR {
+    margin: 55px auto;
+  }
+}
+
+// version desktop full hd
+// @media screen and (min-width:1024px) {}
+
+//version desktop large ecran 2k et plus
+@media screen and (min-width:1920px) {
+  .posi_QR {
+    margin: 130px auto;
+  }
+}
