@@ -66,14 +66,14 @@
     },
     {
       "id":"a4",
-      "title":"Prin It",
-      "description":"Site web pour une entreprise d'imprimerie, HTML,CSS, JAVASCRIPT",
+      "title":"Idée Slider",
+      "description":"Idée de slider pour un site web de galerie photo en HTML, SASS et JAVASCRIPT",
       "tag":"Visiter le site web",
-      "link":"https://cedric-developpeur-web.github.io/Javascript_Print_it_formation/",
+      "link":"https://cedric-developpeur-web.github.io/projet-slider/",
       "miniPicture":[
         {
-          "src": "/assets/Print_it.webp",
-          "alt": "image du projet Print it"
+          "src": "/assets/slider.webp",
+          "alt": "image du projet Idée Slider"
         }
       ]
     },

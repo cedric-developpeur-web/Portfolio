@@ -45,13 +45,13 @@
     background: #291F43;
     border-radius: 42px 42px 10px 10px;
     border-bottom: solid 7.4px #92549C;
-    transform: scale(0.85);
+    transform: scale(0.7);
     transition: 0.3s;
     // permet de rendre mon élément plus claire ou plus sombre
     filter: brightness(1);
 
     &:hover {
-      transform: scale(1);
+      transform: scale(0.9);
       // permet de rendre mon élément plus claire ou plus sombre
       filter: brightness(1.2);
       border-bottom: solid 7.4px #A84885;
@@ -101,6 +101,11 @@
 @media screen and (min-width:480px) {
   .container_card .card {
     width: 70%;
+    transform: scale(0.8);
+
+    &:hover {
+      transform: scale(1);
+    }
   }
 }
 

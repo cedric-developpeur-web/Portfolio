@@ -28,7 +28,7 @@
     {
       "id":"a1",
       "title":"Riding Citites",
-      "description":"Website for a skateboarding association, made in HTML and CSS (not responsive)",
+      "description":"Website for a skateboarding association, made in HTML and CSS",
       "tag":"Visit the website",
       "link":"https://cedric-developpeur-web.github.io/HtlmCss_RidingCitites-formation-/",
       "miniPicture":[
@@ -41,7 +41,7 @@
     {
       "id":"a2",
       "title":"Booki",
-      "description":"Travel agency website, made in HTML and CSS (responsive)",
+      "description":"Travel agency website, made in HTML and CSS",
       "tag":"Visit the website",
       "link":"https://cedric-developpeur-web.github.io/HtmlCss_Booki-formation/",
       "miniPicture":[
@@ -54,7 +54,7 @@
     {
       "id":"a3",
       "title":"OhMyFood",
-      "description":"Restaurant reservation website, made in HTML SASS (responsive)",
+      "description":"Restaurant reservation website, made in HTML SASS",
       "tag":"Visit the website",
       "link":"https://cedric-developpeur-web.github.io/Ohmyfood_formation/",
       "miniPicture":[
@@ -66,21 +66,21 @@
     },
     {
       "id":"a4",
-      "title":"Prin It",
-      "description":"Website for a printing company, HTML,CSS, JAVASCRIPT (not responsive)",
+      "title":"Idea Slider",
+      "description":"Slider idea for a photo gallery website in HTML, SASS and JAVASCRIPT",
       "tag":"Visit the website",
-      "link":"https://cedric-developpeur-web.github.io/Javascript_Print_it_formation/",
+      "link":"https://cedric-developpeur-web.github.io/projet-slider/",
       "miniPicture":[
         {
-          "src": "/assets/Print_it.webp",
-          "alt": "Picture of the Print it project"
+          "src": "/assets/slider.webp",
+          "alt": "Picture of the Idea Slider project"
         }
       ]
     },
     {
       "id":"a5",
       "title":"Nina Carducci",
-      "description":"Website of a freelance photographer, SEO practice (not responsive)",
+      "description":"Website of a freelance photographer, SEO practice",
       "tag":"Visit the website",
       "link":"https://cedric-developpeur-web.github.io/Seo_NinaCarducci_formation/",
       "miniPicture":[
