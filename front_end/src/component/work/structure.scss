@@ -15,9 +15,14 @@
       background-color: $color_button;
       color: $button_text;
       margin: 15px 0px 0px 10px;
+      transition: 0.3s;
+      //permet de rendre mon élément plus claire ou plus sombre
+      filter: brightness(0.8);
 
       &:hover {
         cursor: pointer;
+        // permet de rendre mon élément plus claire ou plus sombre
+        filter: brightness(1.3);
       }
 
       i {
@@ -41,11 +46,16 @@
     border-radius: 42px 42px 10px 10px;
     border-bottom: solid 7.4px #92549C;
     transform: scale(0.85);
-    // background: $degrader_main;
-    // Agrandit pour un effet de déplacement fluide
-    // background-size: 120% 200%;
-    // Lance l'animation
-    // animation: gradientAnimation 2.5s ease infinite;
+    transition: 0.3s;
+    // permet de rendre mon élément plus claire ou plus sombre
+    filter: brightness(1);
+
+    &:hover {
+      transform: scale(1);
+      // permet de rendre mon élément plus claire ou plus sombre
+      filter: brightness(1.2);
+      border-bottom: solid 7.4px #A84885;
+    }
   }
 
   img {
