@@ -4,10 +4,10 @@
     "title3": "Contact"
   },
   "presentation":{
-    "description": "I'm Cédric, a junior front-end web developer, who's actively looking for a job as a front-end web developer to put the skills I've learnt on this course to good use. After completing 11 months' training as a front-end web developer and obtaining a BAC +2 diploma, I'm looking for a permanent or fixed-term contract." 
+    "description": "Hi, my name is Cédric and I'm a passionate and motivated junior front-end web developer. After completing an intensive 11-month training course in front-end web development, I obtained a BAC +2 diploma. I'm currently looking for a job as a front-end web developer to put the skills I've acquired into practice. I'm interested in both permanent and fixed-term contracts, which will allow me to contribute to innovative projects and continue to develop my skills in this constantly evolving field, and I believe that my portfolio reflects my commitment and creativity in designing fluid and interactive user interfaces. I'm looking forward to working with a dynamic team to create exceptional web experiences." 
   },
   "competence":{
-    "description":"Skills"
+    "description":"Beginner level skills"
   },
   "footer":{
     "title": "Contact info",
@@ -105,7 +105,7 @@
     {
       "id":"b3",
       "title":"Framework Build",
-      "competence":["React","Vite","Redux"]
+      "competence":["React.js","Vite.js","Redux"]
     },
     {
       "id":"b4",

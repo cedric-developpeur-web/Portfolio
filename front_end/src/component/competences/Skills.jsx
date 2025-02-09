@@ -9,7 +9,7 @@ const Skills = () => {
   ;
   return (
     <>
-      <span><h2>Compétence niveau débutant</h2></span>
+      <span><h2>{t('competence.description')}</h2></span>
       <div className='skill'>
         {skills.map((e) => (
           <article key={e.id}>

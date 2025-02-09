@@ -4,10 +4,10 @@
     "title3": "Contact"
   },
   "presentation":{
-    "description": "Je suis Cédric, développeur web front end junior, à la recherche active d’un poste de développeur web frontend pour mettre à profit les compétences acquises durant cette formation. Suite à cette formation effectuée d’une durée de 11 mois en tant que développeur web frontend avec obtention du diplôme de niveau BAC +2, les types de contrat recherchés sont un CDI ou CDD" 
+    "description": "Bonjour, je m'appelle Cédric et je suis un développeur web front-end junior passionné et motivé. Après avoir suivi une formation intensive de 11 mois en développement web front-end, j'ai obtenu un diplôme de niveau BAC +2. Je suis actuellement à la recherche d'un poste de développeur web front-end pour mettre en pratique les compétences que j'ai acquises. Je suis intéressé par des contrats de type CDI ou CDD, qui me permettront de contribuer à des projets innovants et de continuer à développer mes compétences dans ce domaine en constante évolution.Je suis convaincu que mon portfolio reflète mon engagement et ma créativité dans la conception d'interfaces utilisateur fluides et interactives. Je suis impatient de collaborer avec une équipe dynamique pour créer des expériences web exceptionnelles." 
   },
   "competence":{
-    "description":"Mes Compétences"
+    "description":"Compétence niveau débutant"
   },
   "footer":{
     "title": "Coordonnées",
@@ -105,7 +105,7 @@
     {
       "id":"b3",
       "title":"Framework Build",
-      "competence":["React","Vite","Redux"]
+      "competence":["React.js","Vite.js","Redux"]
     },
     {
       "id":"b4",
