@@ -28,9 +28,9 @@
     {
       "id":"a1",
       "title":"Riding Citites",
-      "description":"Website for a skateboarding association, made in HTML and CSS",
+      "description":"Website for a skateboarding association, made in Vite.js and Tailwindcss",
       "tag":"Visit the website",
-      "link":"https://cedric-developpeur-web.github.io/HtlmCss_RidingCitites-formation-/",
+      "link":"",
       "miniPicture":[
         {
           "src": "/assets/RidingCitites.webp",
@@ -105,7 +105,7 @@
     {
       "id":"b3",
       "title":"Framework Build",
-      "competence":["React.js","Vite.js","Redux"]
+      "competence":["React.js","Vite.js","Tailwindcss"]
     },
     {
       "id":"b4",
